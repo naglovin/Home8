@@ -1,0 +1,15 @@
+A:\git work\С#\home8\GeneralHomeWork\bin\Debug\net6.0\GeneralHomeWork.exe
+A:\git work\С#\home8\GeneralHomeWork\bin\Debug\net6.0\GeneralHomeWork.deps.json
+A:\git work\С#\home8\GeneralHomeWork\bin\Debug\net6.0\GeneralHomeWork.runtimeconfig.json
+A:\git work\С#\home8\GeneralHomeWork\bin\Debug\net6.0\GeneralHomeWork.dll
+A:\git work\С#\home8\GeneralHomeWork\bin\Debug\net6.0\GeneralHomeWork.pdb
+A:\git work\С#\home8\GeneralHomeWork\obj\Debug\net6.0\GeneralHomeWork.csproj.AssemblyReference.cache
+A:\git work\С#\home8\GeneralHomeWork\obj\Debug\net6.0\GeneralHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+A:\git work\С#\home8\GeneralHomeWork\obj\Debug\net6.0\GeneralHomeWork.AssemblyInfoInputs.cache
+A:\git work\С#\home8\GeneralHomeWork\obj\Debug\net6.0\GeneralHomeWork.AssemblyInfo.cs
+A:\git work\С#\home8\GeneralHomeWork\obj\Debug\net6.0\GeneralHomeWork.csproj.CoreCompileInputs.cache
+A:\git work\С#\home8\GeneralHomeWork\obj\Debug\net6.0\GeneralHomeWork.dll
+A:\git work\С#\home8\GeneralHomeWork\obj\Debug\net6.0\refint\GeneralHomeWork.dll
+A:\git work\С#\home8\GeneralHomeWork\obj\Debug\net6.0\GeneralHomeWork.pdb
+A:\git work\С#\home8\GeneralHomeWork\obj\Debug\net6.0\GeneralHomeWork.genruntimeconfig.cache
+A:\git work\С#\home8\GeneralHomeWork\obj\Debug\net6.0\ref\GeneralHomeWork.dll
